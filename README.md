@@ -5,11 +5,7 @@ This is an example of a **GitHub Flavored Markdown** file.
 ## Table of Contents
 1. [Headers](#headers)
 2. [Emphasis](#emphasis)
-3. [Lists](#lists)
-4. [Code Blocks](#code-blocks)
-5. [Links](#links)
-6. [Images](#images)
-7. [Tables](#tables)
+3. [List](#list)
 
 ---
 
@@ -26,3 +22,14 @@ This is an example of a **GitHub Flavored Markdown** file.
 - *Italic*
 - **Bold**
 - ~~Strikethrough~~
+
+- ---
+
+## List
+
+### Unordered List
+
+- Item 1
+- Item 2
+  - Sub-item 1
+  - Sub-item 2
